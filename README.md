@@ -1,34 +1,64 @@
-# Hi 👋, I'm Syed Ubada
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d26a,100:0077b5&height=200&section=header&text=Syed%20Ubada&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%"/>
+</div>
 
-### Shopify & WordPress Developer | Building custom CMS & E-commerce solutions 🛍️✨
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D26A&center=true&vcenter=true&width=600&lines=Shopify+%26+WordPress+CMS+Developer;Custom+Themes+%26+Plugin+Development;Building+High-Converting+E-commerce+Stores" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedubada&label=Profile views&color=0e75b6&style=flat" alt="syedubada" /> </p>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedubada" alt="syedubada" /></a> </p>
+<div align="center">
+  <a href="https://linkedin.com/in/ubada-saleem" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:syedubadao4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/syedubada" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
-- 🔭 I'm currently working on **Custom Shopify Stores, WordPress Sites & WordPress Plugins**
+<br/>
 
-- 👯 I'm looking to collaborate on **WordPress & Shopify E-commerce Projects**
+---
 
-- 💬 Ask me about **WordPress, Shopify, Liquid, WooCommerce & Web Dev**
+### 👨‍💻 About Me
 
-- 📫 How to reach me **syedubadao4@gmail.com**
+* 🛍️ **E-Commerce Specialist:** Expert in custom Shopify theme development, Liquid, and app integrations.
+* ⚙️ **CMS Developer:** Building custom WordPress plugins, themes, and WooCommerce architectures.
+* 🚀 **Currently Working On:** Custom Shopify Stores & WordPress Plugins.
+* 💬 **Ask Me About:** WordPress, Shopify, Liquid, WooCommerce, PHP, and Web Performance.
+* ⚡ **Fun Fact:** I turn coffee into high-converting e-commerce stores ☕🛒
 
-- ⚡ Fun fact **I turn coffee into high-converting e-commerce stores ☕🛒**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Tech Stack & Tools
+
 <p align="left">
-<a href="https://github.com/syedubada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="syedubada" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ubada-saleem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ubada-saleem" height="30" width="40" /></a>
-<a href="https://instagram.com/syedubada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedubada" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=shopify,wordpress,php,js,ts,html,css,react,nodejs,mysql,git,figma&perline=6" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedubada&show_icons=true&locale=en&layout=compact" alt="syedubada" /></p>
+### 📊 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedubada&show_icons=true&locale=en" alt="syedubada" /></p>
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=syedubada&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedubada&layout=compact&theme=tokyonight&hide=c,cplusplus" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedubada&" alt="syedubada" /></p>
+<br/>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=syedubada&theme=tokyonight" alt="syedubada streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=syedubada&label=Profile%20Views&color=00d26a&style=flat-square" alt="Profile Views" />
+</div>
