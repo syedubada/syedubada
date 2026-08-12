@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=170&section=header&text=SYED%20UBADA&fontSize=48&fontColor=00D26A&stroke=00D26A&strokeWidth=1" width="100%"/>
-</div>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=SYED%20UBADA&fontSize=50&fontColor=00D26A" width="100%"/>
 
-<div align="center">
+  <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D26A&center=true&vcenter=true&width=600&lines=Shopify+%26+WordPress+CMS+Developer;Custom+Themes+%26+Plugin+Engineer;E-Commerce+Performance+%26+UX+Specialist" alt="Typing SVG" />
   </a>
@@ -10,60 +10,46 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-</div>
-
-<br/>
-
+<!-- Contact Badges -->
 <div align="center">
   <a href="mailto:syedubadao4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-syedubadao4%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/ubada-saleem" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-ubada--saleem-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://instagram.com/syedubada" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%40syedubada-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
-<br/>
+<hr size="1" color="#30363d">
 
-<blockquote align="left">
-  <h3>⚡ About Me</h3>
-  <p>
-    • 🛍️ <b>Shopify Engineer:</b> Crafting custom Liquid themes, private apps & high-converting storefronts.<br/>
-    • 🔌 <b>WordPress Developer:</b> Building custom plugins, WooCommerce architectures & CMS solutions.<br/>
-    • 🎯 <b>Core Focus:</b> Clean code, web performance, and conversion-focused e-commerce UX.<br/>
-    • ☕ <b>Fun Fact:</b> Turning coffee into high-converting e-commerce stores.
-  </p>
-</blockquote>
+### ⚡ About Me
+
+- 🛍️ **Shopify Engineer:** Custom Liquid themes design, private/public apps, and optimized storefronts.
+- 🔌 **WordPress Developer:** Custom plugins, WooCommerce integrations, and scalable CMS architectures.
+- 🎯 **Core Focus:** Clean code, web performance, and conversion-focused UX/UI.
+- ☕ **Fun Fact:** Turning coffee into high-converting e-commerce solutions.
 
 <br/>
 
 ### 🛠️ Languages & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=shopify,wordpress,php,js,ts,react,html,css,nodejs,mysql,git,figma&perline=6" />
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=shopify,wordpress,php,js,ts,react,html,css,nodejs,mysql,git,figma&perline=12" alt="My Skills" />
+</div>
 
 <br/>
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=syedubada&show_icons=true&theme=radical&border_color=00D26A&title_color=00D26A&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedubada&layout=compact&theme=radical&border_color=00D26A&title_color=00D26A&hide=c,cplusplus" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=syedubada&theme=radical&border_color=00D26A" alt="syedubada streak" />
+  <!-- Stats & Language Cards with Matching Dark Theme and Neon Green Highlights -->
+  <img src="https://github-readme-stats.vercel.app/api?username=syedubada&show_icons=true&title_color=00D26A&icon_color=00D26A&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedubada&layout=compact&title_color=00D26A&icon_color=00D26A&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&hide=c,cplusplus" height="165" alt="Top Languages" />
 </div>
 
 <br/>
