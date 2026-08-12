@@ -1,4 +1,3 @@
-....
 <div align="center">
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=SYED%20UBADA&fontSize=50&fontColor=00D26A" width="100%"/>
