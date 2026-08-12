@@ -38,9 +38,11 @@
 
 ### 🛠️ Languages & Technologies
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=shopify,wordpress,php,js,ts,react,html,css,nodejs,mysql,git,figma&perline=12" alt="My Skills" />
-</div>
+<p align="left">
+  <!-- Shopify Icon from Devicon aligned with other skill icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="48" height="48" alt="Shopify" style="vertical-align: middle; margin-right: 5px;" />
+  <img src="https://skillicons.dev/icons?i=wordpress,php,js,ts,react,html,css,nodejs,mysql,git,figma&perline=11" alt="My Skills" style="vertical-align: middle;" />
+</p>
 
 <br/>
 
