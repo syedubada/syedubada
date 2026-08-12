@@ -44,16 +44,6 @@
 
 <br/>
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <!-- Stats & Language Cards with Matching Dark Theme and Neon Green Highlights -->
-  <img src="https://github-readme-stats.vercel.app/api?username=syedubada&show_icons=true&title_color=00D26A&icon_color=00D26A&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedubada&layout=compact&title_color=00D26A&icon_color=00D26A&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&hide=c,cplusplus" height="165" alt="Top Languages" />
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=syedubada&label=Profile%20Views&color=00d26a&style=flat-square" alt="Profile Views" />
 </div>
