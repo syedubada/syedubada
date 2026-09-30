@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00D26A&height=200&section=header&text=UBADA%20SALEEM&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Shopify%20%26%20WordPress%20Developer&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=UBADA%20SALEEM&fontSize=50&fontColor=00D26A" width="100%"/>
 
 <div align="center">
 
